@@ -1,0 +1,16 @@
+export { default as Agilent } from './Agilent.svg';
+export { default as Borosil } from './Borosil.png';
+export { default as Eppendorf } from './Eppendorf.png';
+export { default as Lab_India } from './Lab_India.png';
+export { default as Loba_Chemie } from './Loba_Chemie.jpg';
+export { default as Merck } from './Merck.webp';
+export { default as pci_analytics } from './pci_analytics.jpg';
+export { default as rankem } from './rankem.jpg';
+export { default as Remi } from './Remi.jpg';
+export { default as Sartorius } from './sartorius.jpg';
+export { default as Scigenics } from './Scigenics.jpg';
+export { default as sd_fine } from './sd_fine.png';
+export { default as shimadzu } from './shimadzu.png';
+export { default as tarsons } from './tarsons.png';
+export { default as Thermo_Fisher } from './Thermo_Fisher.png';
+export { default as whatman } from './whatman.png';
